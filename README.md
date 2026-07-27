@@ -1,6 +1,6 @@
 # Ceftriaxone concentration effects on transposition frequency
 
-<center> View as a [web page](https://rngoodman.github.io/CRO-concentrations-Tn-frequency/) or [Github repository](https://github.com/rngoodman/CRO-concentrations-Tn-frequency) </center>
+> View as a [web page](https://rngoodman.github.io/CRO-concentrations-Tn-frequency/) or [Github repository](https://github.com/rngoodman/CRO-concentrations-Tn-frequency) 
 
 ![Example Plot](imgs/Fig_3_RS1_and_RS2_transposition_frequencies_PT_T_MT.png)
 
