@@ -1,0 +1,23 @@
+plasmid,start,end,direction,gene_name,type,product
+pBACpAK-COL_reorientated,0,615,=>,oriV,rep_origin,unknown
+pBACpAK-COL_reorientated,690,910,=>,ori2,rep_origin,unknown
+pBACpAK-COL_reorientated,1000,1756,=>,repE,CDS,unknown
+pBACpAK-COL_reorientated,1758,2009,=>,incC,misc_feature,unknown
+pBACpAK-COL_reorientated,2334,3510,=>,sopA,CDS,unknown
+pBACpAK-COL_reorientated,3509,4481,=>,sopB,CDS,unknown
+pBACpAK-COL_reorientated,4553,5027,=>,sopC,misc_feature,unknown
+pBACpAK-COL_reorientated,5126,5273,=>,yuaZ (fragment),CDS,unknown
+pBACpAK-COL_reorientated,5286,5685,<=,cos,misc_feature,unknown
+pBACpAK-COL_reorientated,5789,5889,=>,bom (fragment),misc_feature,unknown
+pBACpAK-COL_reorientated,5894,6051,<=,lacZ-alpha (fragment),CDS,unknown
+pBACpAK-COL_reorientated,6074,6131,=>,MCS,misc_feature,unknown
+pBACpAK-COL_reorientated,6300,6364,<=,lacI (fragment),CDS,unknown
+pBACpAK-COL_reorientated,6542,8165,<=,mcr1,CDS,unknown
+pBACpAK-COL_reorientated,8411,8756,=>,resD (fragment),CDS,unknown
+pBACpAK-COL_reorientated,9155,9251,<=,rexA (fragment),CDS,unknown
+pBACpAK-COL_reorientated,9363,10077,<=,-lambda repressor,repressor,unknown
+pBACpAK-COL_reorientated,10177,10243,=>,cro (fragment),CDS,unknown
+pBACpAK-COL_reorientated,10300,10402,=>,TcR (fragment),CDS,unknown
+pBACpAK-COL_reorientated,10425,11631,=>,TcR,CDS,unknown
+pBACpAK-COL_reorientated,11746,11893,<=,tetC (fragment),CDS,unknown
+pBACpAK-COL_reorientated,11935,11995,=>,VFUS_VACC6 (fragment),CDS,unknown

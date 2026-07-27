@@ -1,0 +1,103 @@
+"","Sample","Insertion","Evidence","position_merged","mutation_type_merged"
+"1","RS1 1.10 CTX 0 3","IS10R","Plasmidsaurus amplicon ",8953,"IS10R"
+"2","RS1 1.10 CTX 0 7","IS10R","Plasmidsaurus amplicon ",8803,"IS10R"
+"3","RS1 1.10 CTX 0 9","IS1A","Plasmidsaurus amplicon ",8921,"IS1A"
+"4","RS1 1.10 CTX 0 11","ISKpn25","Plasmidsaurus amplicon (IRR)",0,NA
+"5","RS1 1.10 CTX 0 13","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"6","RS1 1.10 CTX 0 17","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"7","RS1 1.10 CTX 0 22","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"8","RS1 1.10 CTX 0 24","ISKpn25","Plasmidsaurus amplicon ",0,NA
+"9","RS1 1.10 CTX 0 33","IS10R","Plasmidsaurus amplicon ",8948,"IS10R"
+"10","RS1 1.10 CTX 0 34","IS10R","Plasmidsaurus amplicon ",8803,"IS10R"
+"11","RS1 1.10 CTX 0 35","IS10R","Plasmidsaurus amplicon ",8803,"IS10R"
+"12","RS1 1.10 CTX 0 36","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"13","RS1 1.10 CTX 0 40","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"14","RS1 1.10 CTX 0 41","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"15","RS1 1.10 CTX 0 45","IS10R","PCR",0,NA
+"16","RS1 1.10 CTX 32 2","IS1A","Plasmidsaurus amplicon ",0,NA
+"17","RS1 1.10 CTX 32 3","IS1A","Plasmidsaurus amplicon ",0,NA
+"18","RS1 1.10 CTX 32 4","IS10R","PCR",0,NA
+"19","RS1 1.10 CTX 32 6","IS10R","Plasmidsaurus amplicon ",8600,"IS10R"
+"20","RS1 1.10 CTX 32 11","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"21","RS1 1.10 CTX 32 12","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"22","RS1 1.10 CTX 32 14","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"23","RS1 1.10 CTX 32 15","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"24","RS1 1.10 CTX 32 16","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"25","RS1 1.10 CTX 32 17","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"26","RS1 1.10 CTX 32 18","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"27","RS1 1.10 CTX 32 20","IS1A","Plasmidsaurus amplicon ",9047,"IS1A"
+"28","RS1 1.10 CTX 32 21","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"29","RS1 1.10 CTX 32 22","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"30","RS1 1.10 CTX 32 23","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"31","RS1 1.10 CTX 32 24","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"32","RS1 1.10 CTX 32 25","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"33","RS1 1.10 CTX 32 26","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"34","RS1 1.10 CTX 32 28","IS10R","Plasmidsaurus amplicon ",8602,"IS10R"
+"35","RS1 1.10 CTX 32 33","IS10R","Plasmidsaurus amplicon ",9025,"IS10R"
+"36","RS1 1.10 CTX 32 34","IS1A","PCR",0,NA
+"37","RS1 1.10 CTX 32 37","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"38","RS1 1.10 CTX 32 40","IS10R","Plasmidsaurus amplicon ",8599,"IS10R"
+"39","RS1 1.10 CTX 32 41","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"40","RS1 1.10 CTX 32 42","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"41","RS1 1.10 CTX 32 43","ISKpn25","Plasmidsaurus amplicon (IRR)",0,NA
+"42","RS1 1.10 CTX 32 44","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"43","RS1 1.10 CTX 32 48","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"44","RS1 1.10 CTX 320 1","IS5","Plasmidsaurus amplicon ",8787,"IS5"
+"45","RS1 1.10 CTX 320 2","Tn2","PCR",0,NA
+"46","RS1 1.10 CTX 320 3","IS1A","Plasmidsaurus amplicon ",9051,"IS1A"
+"47","RS1 1.10 CTX 320 12","IS10R","Plasmidsaurus amplicon ",9026,"IS10R"
+"48","RS1 1.10 CTX 320 14","ISKpn25","PCR",0,NA
+"49","RS1 1.10 CTX 320 17","ISKpn25","Plasmidsaurus amplicon ",0,NA
+"50","RS1 1.10 CTX 320 23","IS10R","Plasmidsaurus amplicon ",0,NA
+"51","RS1 1.10 CTX 320 45","IS1A","PCR",0,NA
+"52","RS1 1.10 CTX 3200 3","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"53","RS1 1.10 CTX 3200 4","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"54","RS1 1.10 CTX 3200 6","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"55","RS1 1.10 CTX 3200 14","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"56","RS1 1.10 CTX 3200 17","IS10R","Plasmidsaurus amplicon ",8954,"IS10R"
+"57","RS1 1.11 CTX 0 1","Tn2","Plasmidsaurus plasmid",8441,"Tn2"
+"58","RS1 1.11 CTX 0 2","Tn2","Plasmidsaurus plasmid",8441,"Tn2"
+"59","RS1 1.11 CTX 0 3","Tn2","Plasmidsaurus amplicon + plasmid",9415,"Tn2"
+"60","RS1 1.11 CTX 32 3","ISKpn25","Plasmidsaurus amplicon",0,NA
+"61","RS1 1.11 CTX 32 5","Tn2","Plasmidsaurus plasmid",8898,"Tn2"
+"62","RS1 1.11 CTX 32 9","ISKpn25","Plasmidsaurus amplicon (IRR)",0,NA
+"63","RS1 1.11 CTX 32 15","ISKpn25","Plasmidsaurus amplicon (IRR)",0,NA
+"64","RS1 1.11 CTX 32 22","Tn2","Plasmidsaurus plasmid",8665,"Tn2"
+"65","RS1 1.11 CTX 32 25","Tn2","PCR + virtual gel ",9182,"Tn2"
+"66","RS1 1.11 CTX 32 34","Tn2","PCR/Plasmidsaurus amplicon",8665,"Tn2"
+"67","RS1 1.11 CTX 32 36","ISKpn25","PCR",0,NA
+"68","RS1 1.11 CTX 32 44","IS1A","Plasmidsaurus amplicon",8840,"IS1A"
+"69","RS1 1.11 CTX 320 1","IS1A","Plasmidsaurus amplicon  + plasmid",8618,"IS1A"
+"70","RS1 1.11 CTX 320 2","Tn2","Plasmidsaurus plasmid",8441,"Tn2"
+"71","RS1 1.11 CTX 320 3","Tn2","Plasmidsaurus plasmid",8441,"Tn2"
+"72","RS1 1.11 CTX 320 6","ISKpn25","Plasmidsaurus amplicon",0,NA
+"73","RS1 1.11 CTX 320 8","IS5","Plasmidsaurus plasmid",8787,"IS5"
+"74","RS1 1.11 CTX 320 11","ISKpn25","Plasmidsaurus amplicon/plasmid",9009,"ISKpn25"
+"75","RS1 1.11 CTX 320 12","Tn2","Plasmidsaurus plasmid",8441,"Tn2"
+"76","RS1 1.11 CTX 320 15","IS1A","PCR",0,NA
+"77","RS1 1.14 CTX 0 1","ISKpn25","Plasmidsaurus amplicon",0,NA
+"78","RS1 1.14 CTX 0 2","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"79","RS1 1.14 CTX 0 3","Tn2","plasmidsarus plasmid + Plasmidsaurus amplicon +  PCR",9056,"Tn2"
+"80","RS1 1.14 CTX 0 4","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"81","RS1 1.14 CTX 0 6","Tn2","Plasmidsarus plasmid",9079,"Tn2"
+"82","RS1 1.14 CTX 0 9","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"83","RS1 1.14 CTX 0 10","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"84","RS1 1.14 CTX 0 11","Tn2","plasmidsarus plasmid + Plasmidsaurus amplicon ",9056,"Tn2"
+"85","RS1 1.14 CTX 0 13","Tn2","Plasmidsarus plasmid",9079,"Tn2"
+"86","RS1 1.14 CTX 0 14","Tn2","plasmidsarus plasmid + PCR",9079,"Tn2"
+"87","RS1 1.14 CTX 0 16","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"88","RS1 1.14 CTX 0 19","Tn2","Plasmidsarus plasmid",9079,"Tn2"
+"89","RS1 1.14 CTX 0 24","ISKpn25","Plasmidsaurus amplicon + plasmid ",8930,"ISKpn25"
+"90","RS1 1.14 CTX 0 27","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"91","RS1 1.14 CTX 0 31","Tn2","Plasmidsarus plasmid",9365,"Tn2"
+"92","RS1 1.14 CTX 0 32","IS10R","Plasmidsaurus amplicon",8475,"IS10R"
+"93","RS1 1.14 CTX 0 33","Tn2","Plasmidsarus plasmid",9056,"Tn2"
+"94","RS1 1.14 CTX 0 34","Tn2","plasmidsarus plasmid + PCR",9079,"Tn2"
+"95","RS1 1.14 CTX 0 35","Tn2","plasmidsarus plasmid + PCR",9079,"Tn2"
+"96","RS1 1.14 CTX 0 42","Tn2","plasmidsarus plasmid + PCR",9056,"Tn2"
+"97","RS1 1.14 CTX 0 43","Tn2","plasmidsarus plasmid + PCR",9415,"Tn2"
+"98","RS1 1.14 CTX 0 48","No insertion","plasmidsarus plasmid + PCR",0,NA
+"99","RS1 1.14 CTX 32 1","IS10R","Plasmidsaurus amplicon",8481,"IS10R"
+"100","RS1 1.14 CTX 32 3","IS10R","PCR",0,NA
+"101","RS1 1.14 CTX 320 5","IS5","Plasmidsaurus amplicon + Plasmid ",8787,"IS5"
+"102","RS1 1.14 CTX 320 8","IS5","PCR",8787,"IS5"

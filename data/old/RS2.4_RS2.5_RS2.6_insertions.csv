@@ -1,0 +1,107 @@
+﻿Sample,Insertion ,Evidence
+RS2 2.4 CTX 0 4,IS10R,Plasmidsaurus amplicon
+RS2 2.4 CTX 0 5,ISKpn25,Plasmidsaurus RCA 
+RS2 2.4 CTX 0 9,IS10R,Plasmidsaurus amplicon
+RS2 2.4 CTX 0 10,IS10R,Plasmidsaurus RCA 
+RS2 2.4 CTX 0 12,Tn2,PCR
+RS2 2.4 CTX 0 16,Tn1000,PCR
+RS2 2.4 CTX 0 20,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 0 22,Tn1000,Plasmidsaurus RCA 
+RS2 2.4 CTX 0 27,Tn1000,PCR
+RS2 2.4 CTX 0 31,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 0 43,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 32 1,Tn1000,Plasmidsaurus RCA 
+RS2 2.4 CTX 32 3,Tn1000,Plasmidsaurus plasmid 
+RS2 2.4 CTX 32 9,IS10R,Plasmidsaurus amplicon
+RS2 2.4 CTX 32 11,IS10R,Plasmidsaurus RCA 
+RS2 2.4 CTX 32 12,Tn1000,Plasmidsaurus RCA 
+RS2 2.4 CTX 32 28,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 32 30,Tn1000,Plasmidsaurus plasmid 
+RS2 2.4 CTX 32 38,No insertion,NA
+RS2 2.4 CTX 320 1,Tn1000,PCR
+RS2 2.4 CTX 320 4,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 320 6,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 13,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 14,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 17,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 18,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 19,Tn1000,Plasmidsaurus RCA
+RS2 2.4 CTX 320 20,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 320 21,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 29,Tn2,PCR
+RS2 2.4 CTX 320 32,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 42,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 44,IS10R,Plasmidsaurus amplicon
+RS2 2.4 CTX 320 46,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 320 48,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 3200 2,ISKpn25,Plasmidsaurus plasmid 
+RS2 2.4 CTX 3200 4,ISKpn25,PCR
+RS2 2.4 CTX 3200 5,IS10R,Plasmidsaurus amplicon
+RS2 2.4 CTX 3200 10,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 12,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 14,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 16,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 19,Tn1000,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 21,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 22,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 24,ISKpn25,Plasmidsaurus plasmid   + PS virtual gel
+RS2 2.4 CTX 3200 26,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 28,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 31,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 32,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 33,IS10R,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 35,ISKpn25,Plasmidsaurus plasmid   + PS virtual gel
+RS2 2.4 CTX 3200 37,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 3200 40,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 3200 41,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 45,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.4 CTX 3200 46,ISKpn25,Plasmidsaurus RCA
+RS2 2.4 CTX 3200 48,IS10R,Plasmidsaurus amplicon
+RS2 2.5 CTX 0 3,Tn2,PCR
+RS2 2.5 CTX 0 5,Tn2,PCR
+RS2 2.5 CTX 0 6,Tn2,PCR
+RS2 2.5 CTX 0 10,ISKpn25,Plasmidsaurus amplicon
+RS2 2.5 CTX 0 17,Tn2,PCR
+RS2 2.5 CTX 0 20,Tn2,PCR
+RS2 2.5 CTX 0 21,IS10R,Plasmidsaurus plasmid + virtual gel
+RS2 2.5 CTX 0 38,Tn2,Plasmidsaurus RCA
+RS2 2.5 CTX 32 17,Tn2,PCR
+RS2 2.5 CTX 32 38,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 32 40,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 320 5,Tn2,PCR
+RS2 2.5 CTX 320 6,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 320 8,Tn2,PCR
+RS2 2.5 CTX 320 10,Tn2,PCR
+RS2 2.5 CTX 320 11,Tn2,PCR
+RS2 2.5 CTX 320 14,Tn2,PCR
+RS2 2.5 CTX 320 33,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 320 35,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 320 36,Tn2,Plasmidsaurus RCA 
+RS2 2.5 CTX 320 41,Tn2,PCR
+RS2 2.5 CTX 320 42,Tn2,PCR
+RS2 2.5 CTX 320 43,Tn2,Plasmidsaurus RCA 
+RS2 2.5 CTX 320 44,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 320 47,Tn2,PCR
+RS2 2.5 CTX 3200 1,IS10R,PCR + PS virtual gel 
+RS2 2.5 CTX 3200 17,Tn2,Plasmidsaurus RCA
+RS2 2.5 CTX 3200 22,Tn2,PCR
+RS2 2.5 CTX 3200 27,Tn2,PCR
+RS2 2.5 CTX 3200 40,Tn2,PCR
+RS2 2.5 CTX 3200 41,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 3200 43,Tn2,Plasmidsaurus plasmid
+RS2 2.5 CTX 3200 44,Tn2,PCR
+RS2 2.5 CTX 3200 45,Tn2,Plasmidsaurus virtual gel
+RS2 2.5 CTX 3200 46,Tn2,Plasmidsaurus RCA
+RS2 2.5 CTX 3200 47,Tn2,PCR
+RS2 2.6 CTX 32 5,IS10R,PCR
+RS2 2.6 CTX 32 21,Tn2,Plasmidsaurus RCA
+RS2 2.6 CTX 32 25,IS1A,Plasmidsaurus plasmid PS virtual gel
+RS2 2.6 CTX 32 28,Tn2,Plasmidsaurus RCA
+RS2 2.6 CTX 320 33,Tn2,Plasmidsaurus RCA
+RS2 2.6 CTX 320 34,ISKpn25,Plasmidsaurus amplicon (ISKpn25 IRR) 
+RS2 2.6 CTX 3200 4,Tn2,PCR
+RS2 2.6 CTX 3200 7,Tn2,Plasmidsaurus RCA
+RS2 2.6 CTX 3200 11,Tn2,Plasmidsaurus plasmid
+RS2 2.6 CTX 3200 20,Tn2,Plasmidsaurus plasmid
+RS2 2.6 CTX 3200 21,Tn2,Plasmidsaurus RCA
+RS2 2.6 CTX 3200 43,IS1A,Plasmidsaurus RCA + PCR

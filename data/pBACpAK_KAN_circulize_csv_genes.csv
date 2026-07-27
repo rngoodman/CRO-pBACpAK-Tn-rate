@@ -1,0 +1,24 @@
+plasmid,start,end,direction,gene_name,type,product
+pBACpAK-KAN_reorientated,0,615,=>,oriV,rep_origin,unknown
+pBACpAK-KAN_reorientated,690,910,=>,ori2,rep_origin,unknown
+pBACpAK-KAN_reorientated,1000,1756,=>,repE,CDS,unknown
+pBACpAK-KAN_reorientated,1758,2009,=>,incC,misc_feature,unknown
+pBACpAK-KAN_reorientated,2334,3510,=>,sopA,CDS,unknown
+pBACpAK-KAN_reorientated,3509,4481,=>,sopB,CDS,unknown
+pBACpAK-KAN_reorientated,4553,5027,=>,sopC,misc_feature,unknown
+pBACpAK-KAN_reorientated,5126,5273,=>,yuaZ (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,5286,5685,<=,cos,misc_feature,unknown
+pBACpAK-KAN_reorientated,5789,5889,=>,bom (fragment),misc_feature,unknown
+pBACpAK-KAN_reorientated,5894,6051,<=,lacZα (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,6074,6131,=>,MCS,misc_feature,unknown
+pBACpAK-KAN_reorientated,6300,6364,<=,lacI (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,6537,7347,<=,KanR,CDS,unknown
+pBACpAK-KAN_reorientated,7516,7541,=>,rop (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,7669,8014,=>,resD (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,8413,8509,<=,rexA (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,8621,9335,<=,λ repressor,repressor,unknown
+pBACpAK-KAN_reorientated,9435,9501,=>,cro (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,9558,9660,=>,TcR (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,9683,10889,=>,TcR,CDS,unknown
+pBACpAK-KAN_reorientated,11004,11151,<=,tetC (fragment),CDS,unknown
+pBACpAK-KAN_reorientated,11193,11253,=>,VFUS_VACC6 (fragment),CDS,unknown

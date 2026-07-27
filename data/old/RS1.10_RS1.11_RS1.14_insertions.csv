@@ -1,0 +1,103 @@
+﻿Sample,Insertion ,Evidence
+RS1 1.10 CTX 0 3,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 7,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 9,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 11,ISKpn25,Plasmidsaurus amplicon (IRR)
+RS1 1.10 CTX 0 13,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 17,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 22,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 24,ISKpn25,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 33,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 34,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 35,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 36,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 40,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 41,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 0 45,IS10R,PCR
+RS1 1.10 CTX 32 2,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 3,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 4,IS10R,PCR
+RS1 1.10 CTX 32 6,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 11,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 12,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 14,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 15,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 16,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 17,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 18,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 20,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 21,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 22,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 23,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 24,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 25,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 26,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 28,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 33,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 34,IS1A,PCR
+RS1 1.10 CTX 32 37,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 40,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 41,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 42,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 43,ISKpn25,Plasmidsaurus amplicon (IRR)
+RS1 1.10 CTX 32 44,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 32 48,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 1,IS5,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 2,Tn2,PCR
+RS1 1.10 CTX 320 3,IS1A,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 12,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 14,ISKpn25,PCR
+RS1 1.10 CTX 320 17,ISKpn25,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 23,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 320 45,IS1A,PCR
+RS1 1.10 CTX 3200 3,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 3200 4,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 3200 6,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 3200 14,IS10R,Plasmidsaurus amplicon 
+RS1 1.10 CTX 3200 17,IS10R,Plasmidsaurus amplicon 
+RS1 1.11 CTX 0 1,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 0 2,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 0 3,Tn2,Plasmidsaurus amplicon + plasmid
+RS1 1.11 CTX 32 3,ISKpn25,Plasmidsaurus amplicon
+RS1 1.11 CTX 32 5,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 32 9,ISKpn25,Plasmidsaurus amplicon (IRR)
+RS1 1.11 CTX 32 15,ISKpn25,Plasmidsaurus amplicon (IRR)
+RS1 1.11 CTX 32 22,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 32 25,Tn2,PCR + virtual gel 
+RS1 1.11 CTX 32 34,Tn2,PCR/Plasmidsaurus amplicon
+RS1 1.11 CTX 32 36,ISKpn25,PCR
+RS1 1.11 CTX 32 44,IS1A,Plasmidsaurus amplicon
+RS1 1.11 CTX 320 1,IS1A,Plasmidsaurus amplicon  + plasmid
+RS1 1.11 CTX 320 2,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 320 3,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 320 6,ISKpn25,Plasmidsaurus amplicon
+RS1 1.11 CTX 320 8,IS5,Plasmidsaurus plasmid
+RS1 1.11 CTX 320 11,ISKpn25,Plasmidsaurus amplicon/plasmid
+RS1 1.11 CTX 320 12,Tn2,Plasmidsaurus plasmid
+RS1 1.11 CTX 320 15,IS1A,PCR
+RS1 1.14 CTX 0 1,ISKpn25,Plasmidsaurus amplicon
+RS1 1.14 CTX 0 2,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 3,Tn2,plasmidsarus plasmid + Plasmidsaurus amplicon +  PCR
+RS1 1.14 CTX 0 4,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 6,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 9,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 10,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 11,Tn2,plasmidsarus plasmid + Plasmidsaurus amplicon 
+RS1 1.14 CTX 0 13,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 14,Tn2,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 0 16,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 19,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 24,ISKpn25,Plasmidsaurus amplicon + plasmid 
+RS1 1.14 CTX 0 27,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 31,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 32,IS10R,Plasmidsaurus amplicon
+RS1 1.14 CTX 0 33,Tn2,Plasmidsarus plasmid
+RS1 1.14 CTX 0 34,Tn2,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 0 35,Tn2,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 0 42,Tn2,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 0 43,Tn2,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 0 48,No insertion,plasmidsarus plasmid + PCR
+RS1 1.14 CTX 32 1,IS10R,Plasmidsaurus amplicon
+RS1 1.14 CTX 32 3,IS10R,PCR
+RS1 1.14 CTX 320 5,IS5,Plasmidsaurus amplicon + Plasmid 
+RS1 1.14 CTX 320 8,IS5,PCR
